@@ -6,4 +6,5 @@ def fizzbuzz(number)
 end
 
 def divisible_by_three?(number) 
-  is_divisible_by
+  is_divisible_by?(number 3)
+  
