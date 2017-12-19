@@ -1,1 +1,1 @@
-if (is divisibl)
+if (is_divisible_by_15)
